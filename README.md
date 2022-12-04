@@ -2,7 +2,8 @@
 
 https://raw.githubusercontent.com/DT-234/DT-234/main/legado_202209.json
 
-<a href="legado://import/bookSource?src=https://raw.githubusercontent.com/DT-234/DT-234/main/legado_202209.json" target="_blank" rel="noopener noreferrer">点击此处导入</a>
+<li><a href="legado://import/bookSource?src=https://raw.githubusercontent.com/DT-234/DT-234/main/legado_202209.json" rel="nofollow">书源规则</a></li>
+
 
 <!--
 **DT-234/DT-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
