@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://github.com/DT-234/DT-234/blob/main/legado_202209.json
+https://raw.githubusercontent.com/DT-234/DT-234/main/legado_202209.json
+
+<a href="legado://import/bookSource?src=https://raw.githubusercontent.com/DT-234/DT-234/main/legado_202209.json" target="_blank" rel="noopener noreferrer">点击此处导入</a>
 
 <!--
 **DT-234/DT-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
