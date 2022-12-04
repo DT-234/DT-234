@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-legado://import/bookSource?src=https://github.com/DT-234/DT-234/blob/main/legado_202209.json
+https://github.com/DT-234/DT-234/blob/main/legado_202209.json
 
 <!--
 **DT-234/DT-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
